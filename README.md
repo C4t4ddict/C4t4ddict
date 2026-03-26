@@ -1,6 +1,6 @@
 ## 반갑읍니다. 
 
-# 소프트웨어 학사/Bachelor of Software Engineering
+### 소프트웨어 학사/Bachelor of Software Engineering
 <!--
 **C4t4ddict/C4t4ddict** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
