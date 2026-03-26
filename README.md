@@ -1,4 +1,4 @@
-## Hi there 👋
+## 반갑읍니다. 
 
 <!--
 **C4t4ddict/C4t4ddict** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
