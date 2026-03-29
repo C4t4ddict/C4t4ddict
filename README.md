@@ -32,5 +32,5 @@ Binance + TradingView Webhook 기반의 자동매매 / 백테스트 / 모의투�
 ---
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C4t4ddict&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-0330.vercel.app/api/top-langs/?username=C4t4ddict&layout=compact&theme=tokyonight)
 
