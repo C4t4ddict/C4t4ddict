@@ -11,7 +11,7 @@
 
 ## 🚀 Projects
 
-### [StudyPilot](https://github.com/C4t4ddict/studypilot-flutter-app)
+### [StudyPilot](https://github.com/C4t4ddict/studypilot-flutter-app) (개발중)
 목표를 로드맵으로 만들고, 커리큘럼과 투두로 쪼개 실행까지 이어주는 학습/취업 관리 플랫폼입니다. Flutter 단일 코드베이스로 iOS / Android / Web을 함께 지원합니다.
 
 ### [HoyaTradingSW](https://github.com/C4t4ddict/hoyatradingsw)
