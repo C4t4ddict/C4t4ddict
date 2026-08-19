@@ -9,6 +9,14 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=C4t4ddict&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/C4t4ddict"
+  width="600"
+  height="300"
+/>
+</a>
+
 ## 🚀 Projects
 
 ### [StudyPilot](https://github.com/C4t4ddict/studypilot-flutter-app) (개발중)
